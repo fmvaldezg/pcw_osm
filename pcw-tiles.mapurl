@@ -1,0 +1,5 @@
+url=pcw-tiles/ZZZ/XXX/YYY.png
+minzoom=15
+maxzoom=19
+center=-75.125768 39.987353
+type=tms
